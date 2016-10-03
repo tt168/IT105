@@ -1,15 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Homework1
+class MylittleProject
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-        }
+    static void Main ()
+    { Console.WriteLine("Helloe World!");
+
+        Console.ReadLine();
     }
 }
